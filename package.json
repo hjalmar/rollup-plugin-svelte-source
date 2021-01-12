@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-svelte-source",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inject source code for given svelte components",
   "main": "main.js",
   "scripts": {
