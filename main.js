@@ -45,6 +45,7 @@ module.exports = (o = {}) => {
       }
       return {
         code: `${output}`,
+        map: null
       };
     }
   }
