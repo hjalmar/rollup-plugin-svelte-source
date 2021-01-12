@@ -1,0 +1,20 @@
+{
+  "name": "rollup-plugin-svelte-source",
+  "version": "0.0.1",
+  "description": "Inject source code for given svelte components",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Svelte",
+    "Source",
+    "Rollup"
+  ],
+  "homepage": "https://github.com/hjalmar/rollup-plugin-svelte-source",
+  "author": "Jens Hjalmarsson",
+  "license": "MIT",
+  "dependencies": {
+    "@rollup/pluginutils": "^4.1.0"
+  }
+}
